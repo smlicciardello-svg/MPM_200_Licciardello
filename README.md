@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+The Hummingbird code allowed us to analyze data from various rehabilitation centers to examine how different factors affected surivival and release. The main functionalities allowed us to analyze different aspects of the dataset such as number of observations, analyse how different variables affected survival and release, analyse how species difference affected survival and release, and look at the trend of admissions over time. The code creates various dataframes, graphs, and proportions for analysis. We found that species group, reason for admission, season, and age at admission affected survival and release rates. We also found that admissions have increased over time, especially after 2013, and that admissions tend to be greatest during the spring and summer seasons. 
 
 ## Project Organization
 ------------
